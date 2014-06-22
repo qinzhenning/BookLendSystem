@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/com/qinzhenning/BookLendSystem/Administrator/Administrator.java=UTF-8
+encoding//src/com/qinzhenning/BookLendSystem/GUI/AdminFrame/AdminFrame.java=UTF-8
+encoding//src/com/qinzhenning/BookLendSystem/GUI/AdminFrame/ManageBorrower.java=UTF-8
+encoding//src/com/qinzhenning/BookLendSystem/GUI/LoginFrame/LoginFrame.java=UTF-8
+encoding//src/com/qinzhenning/BookLendSystem/Library/Book.java=UTF-8
+encoding//src/com/qinzhenning/BookLendSystem/Library/Library.java=UTF-8
+encoding/<project>=GB2312
+separateDerivedEncodings=true
