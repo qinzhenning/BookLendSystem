@@ -53,6 +53,7 @@ public class MyRemoteClient {
 		MyRemoteClient Client = new MyRemoteClient();
 		Client.go();
                 system.out.prirntln("test");
+                system.out.prirntln("test2");
 		
 		
 	}
