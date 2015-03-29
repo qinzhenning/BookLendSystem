@@ -52,6 +52,7 @@ public class MyRemoteClient {
 		// TODO Auto-generated method stub
 		MyRemoteClient Client = new MyRemoteClient();
 		Client.go();
+                system.out.prirntln("test");
 		
 		
 	}
